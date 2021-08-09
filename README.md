@@ -12,3 +12,12 @@ get_middle("testing") # => "t"
 get_middle("middle") # => "dd"
 get_middle("A") # => "A"
 get_middle("of") # => "of"
+
+
+
+INPUT || OUTPUT 
+'test' || 'es'
+'testing' || 't' 
+'middle' || 'dd'
+'A' || 'A'
+'of' || 'of'
